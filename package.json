@@ -1,5 +1,6 @@
 {
-  "name": "http://Rato2392.github.io/microreact_test",
+  "homepage": "http://Rato2392.github.io/microreact_test",
+  "name": "microreact_test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
