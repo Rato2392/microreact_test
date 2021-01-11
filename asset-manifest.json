@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/microreact_test/static/css/main.cbb5fd90.chunk.css",
+    "main.js": "/microreact_test/static/js/main.bc46dc0d.chunk.js",
+    "main.js.map": "/microreact_test/static/js/main.bc46dc0d.chunk.js.map",
+    "runtime-main.js": "/microreact_test/static/js/runtime-main.20ddff60.js",
+    "runtime-main.js.map": "/microreact_test/static/js/runtime-main.20ddff60.js.map",
+    "static/js/2.6c9b4a18.chunk.js": "/microreact_test/static/js/2.6c9b4a18.chunk.js",
+    "static/js/2.6c9b4a18.chunk.js.map": "/microreact_test/static/js/2.6c9b4a18.chunk.js.map",
+    "index.html": "/microreact_test/index.html",
+    "static/css/main.cbb5fd90.chunk.css.map": "/microreact_test/static/css/main.cbb5fd90.chunk.css.map",
+    "static/js/2.6c9b4a18.chunk.js.LICENSE.txt": "/microreact_test/static/js/2.6c9b4a18.chunk.js.LICENSE.txt",
+    "static/media/logo2.55ed59c3.svg": "/microreact_test/static/media/logo2.55ed59c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ddff60.js",
+    "static/js/2.6c9b4a18.chunk.js",
+    "static/css/main.cbb5fd90.chunk.css",
+    "static/js/main.bc46dc0d.chunk.js"
+  ]
+}
