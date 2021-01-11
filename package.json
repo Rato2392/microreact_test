@@ -1,5 +1,5 @@
 {
-  "name": "microreact_app",
+  "name": "http://Rato2392.github.io//microreact_test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-iframe": "^1.8.0",
